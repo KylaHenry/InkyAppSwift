@@ -36,11 +36,11 @@ struct ContentView: View {
                     }
 
                 // Notifications Tab (Placeholder)
-                Notifications()
-                    .tabItem {
-                        Image(systemName: "bell")
-                        Text("NOTIFICATIONS")
-                    }
+//                Notifications()
+//                    .tabItem {
+//                        Image(systemName: "bell")
+//                        Text("NOTIFICATIONS")
+//                    }
             }
         }
     }
