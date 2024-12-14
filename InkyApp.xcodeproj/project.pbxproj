@@ -29,22 +29,9 @@
 		2493531C2CED3FC300EB414A /* InkyAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InkyAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		258EBF242D0D25D600FB3C81 /* Exceptions for "InkyApp" folder in "InkyApp" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 249353012CED3FC100EB414A /* InkyApp */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		249353042CED3FC100EB414A /* InkyApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				258EBF242D0D25D600FB3C81 /* Exceptions for "InkyApp" folder in "InkyApp" target */,
-			);
 			path = InkyApp;
 			sourceTree = "<group>";
 		};
